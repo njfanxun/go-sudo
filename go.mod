@@ -1,4 +1,4 @@
-module go-sudo
+module github.com/njfanxun/go-sudo
 
 go 1.14
 
